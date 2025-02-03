@@ -1,9 +1,9 @@
 # Modi (Victor) Li
 
-My name is Modi (Victor) Li and I'm currently a graduate student at The George Washington University majoring in Computer Science focusing on Machine Intelligence and Cognition. I have experience on iOS development with Swift using UIKit and SwiftUI, as well as cross-platform app development with React Native.
+My name is Modi (Victor) Li, and I'm currently a graduate student at The George Washington University majoring in Computer Science focusing on Machine Intelligence and Cognition. I have experience on Machine Learning, iOS app development with Swift using UIKit and SwiftUI, and cross-platform app development with React Native.
 
-- [LinkedIn](https://www.linkedin.com/in/modi-li)
-- [Website](https://modi-li.github.io)
+- [My LinkedIn](https://www.linkedin.com/in/modi-li)
+- [My GitHub](https://github.com/modi-li)
 
 ## Education
 
@@ -15,7 +15,7 @@ Aug 2023 - May 2025 (Expected)
 
 - Area of Focus: Machine Intelligence and Cognition
 
-- Relevant Coursework: Algorithms, Artificial Intelligence, Machine Learning, Neural Networks and Deep Learning, Natural Language Understanding, Large Language Models, Computer Vision, Computer System Architecture
+- Relevant Coursework: Algorithms, Artificial Intelligence, Machine Learning, Neural Networks and Deep Learning, Natural Language Understanding, Large Language Models, Computer Vision, Computer System Architecture, Quantum Computing
 
 ### Syracuse University
 
@@ -71,13 +71,14 @@ Features include displaying recommended artists and music, displaying followed a
 
 ## Skills
 
-- Programming Languages: Python, Swift, JavaScript
+- Programming Languages: Python, Swift, Kotlin, Java, JavaScript
 - Data Analysis: NumPy, pandas, Matplotlib
-- Machine Learning: scikit-learn, PyTorch, TensorFlow
-- Database: SQL
-- iOS App Development: Swift (UIKit, SwiftUI)
+- Machine Learning: PyTorch, TensorFlow, scikit-learn
+- iOS App Development: Swift (with UIKit and SwiftUI)
+- Android App Development: Kotlin, Java
 - Cross-Platform App Development: React Native
 - Web Development: HTML, CSS, JavaScript, React
+- Database: SQL
 - Version Control: Git
 - Project Management: Agile Software Development
 - Document Typesetting: LaTeX
