@@ -1,5 +1,7 @@
 # Modi (Victor) Li
 
+- [LinkedIn](https://www.linkedin.com/in/modi-li)
+
 ## Education
 
 **The George Washington University** (08/2023 - 05/2025)
